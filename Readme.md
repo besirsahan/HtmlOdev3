@@ -1,5 +1,5 @@
 # **Html Ödev 3**
-Kodluyoruz ([patica](https://app.patika.dev/courses/html/bolum-sonu2)) HTML Dersinin Üçüncü Ödev Çalışmasıdır.
+Kodluyoruz ([patica](https://app.patika.dev/courses/html/html-odev3)) HTML Dersinin Üçüncü Ödev Çalışmasıdır.
 
 
 ## **İçeriği**
